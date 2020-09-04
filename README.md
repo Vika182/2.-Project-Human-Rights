@@ -1,4 +1,4 @@
-# Human-Rights-Project
+# Human Rights Violation: Causes and Solutions
 Ironhack week 6 project\
 \
 \
